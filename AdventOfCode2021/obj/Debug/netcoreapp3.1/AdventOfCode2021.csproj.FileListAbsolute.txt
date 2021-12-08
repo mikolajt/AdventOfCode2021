@@ -1,0 +1,14 @@
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.exe
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.deps.json
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.runtimeconfig.json
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.runtimeconfig.dev.json
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.dll
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.pdb
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.csproj.AssemblyReference.cache
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.AssemblyInfoInputs.cache
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.AssemblyInfo.cs
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.csproj.CoreCompileInputs.cache
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.dll
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.pdb
+E:\Mikolaj\Google Drive\Tworzenie\Programowanie\Advent of code 2021\AdventOfCode2021\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.genruntimeconfig.cache
